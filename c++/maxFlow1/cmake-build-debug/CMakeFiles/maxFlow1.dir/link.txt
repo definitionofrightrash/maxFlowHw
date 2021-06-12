@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/maxFlow1.dir/main.cpp.o -o maxFlow1 
